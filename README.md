@@ -216,4 +216,4 @@ BoneLab is released as a full free version. All features and updates are include
 Download BoneLab today and embark on your journey to mastering human anatomy!
 
 ---
-**Last updated:** 2026-09-22 17:22:10 UTC
+**Last updated:** 2026-09-22 20:30:38 UTC
